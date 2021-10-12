@@ -1,3 +1,6 @@
+-- Assignments and assignment submmissions table creation
+
+
 CREATE TABLE assignments (
   id SERIAL PRIMARY KEY NOT NULL,
   name VARCHAR(255),
